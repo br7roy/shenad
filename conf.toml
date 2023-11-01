@@ -1,0 +1,8 @@
+[app]
+test = true #  是否测试模式
+
+
+[app.db]
+dbFilePath = "/Users/tak/Dev/project/fronted/shenad/food.sqlite"
+
+

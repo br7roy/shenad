@@ -1,0 +1,7 @@
+*.js linguist-language=go
+*.css linguist-language=go
+*.html linguist-language=go
+*.ico linguist-language=go
+*.gif linguist-language=go
+*.svg linguist-language=go
+*.scss linguist-language=makefile
