@@ -24,13 +24,13 @@ sh shenad
 
 **如果配置文件和shenad在同级目录那么**
 ```shell
-sh shenad -p 0.0.0.0:2000
+sh shenad -p 0.0.0.0:20000
 
 ```
 
 **如果需要制定配置文件目录那么**
 ```shell
-sh shenad -p 0.0.0.0:2000 -c /opt/conf.toml
+sh shenad -p 0.0.0.0:20000 -c /opt/conf.toml
 ```
 ##  预览
 ![预览图片](https://github.com/br7roy/shenad/blob/master/Xnip2023-11-02_00-13-39.jpg)
