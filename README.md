@@ -32,6 +32,8 @@ sh shenad -p 0.0.0.0:2000
 ```shell
 sh shenad -p 0.0.0.0:2000 -c /opt/conf.toml
 ```
+##  预览
+![预览图片](https://github.com/br7roy/shenad/blob/master/Xnip2023-11-02_00-13-39.jpg)
 
 ### LICENSE  
 MIT
